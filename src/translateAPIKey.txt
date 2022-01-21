@@ -1,0 +1,4 @@
+This is the API key you should use for the Google Translate API. Copy paste this into the top of your ‘Translate.js’ file for right now. Of course, make sure you comment it out.
+
+AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM
+
